@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Module 1: Introduction to IoT and Azure IoT Services";
+    "Language": "English";
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer",
+    "Files":[
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_01-getting-started-with-azure.md",
+        "Order": 1
+       },
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_02-getting-started-with-azure-iot-services.md",
+        "Order": 2
+        }
+      ]
+   }
+ ]
