@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Module 1: Introduction to IoT and Azure IoT Services";
-    "Language": "English";
+    "Name": "Module 1: Introduction to IoT and Azure IoT Services",
+    "Language": "English",
     "BaseURL": "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer",
     "Files":[
       {
